@@ -19,6 +19,10 @@
               "label": "West US 2"
           },
           {
+              "value": "West Europe",
+              "label": "West Europe"
+          },
+          {
               "value": "East US",
               "label": "East US"
           },
